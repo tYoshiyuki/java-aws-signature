@@ -1,0 +1,12 @@
+.apt_generated
+.attach_pid*
+.classpath
+.gradle
+.idea
+.project
+.settings
+bin
+build
+contents
+log
+out
